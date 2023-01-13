@@ -10,4 +10,4 @@ Took 15 year energy data and performed data analysis:
 
 5)Year Consumption throughout all the year in MW.
 
-6)As we have got maximum energy distribution in 2007 and I want to see how energy id distributed in 2007.
+6)As we have got maximum energy distribution in 2007 and we want to see how energy id distributed in 2007.
